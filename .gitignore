@@ -6,3 +6,5 @@ node_modules/
 data/
 *.csv
 *.zip
+.DS_Store
+exec -l */
